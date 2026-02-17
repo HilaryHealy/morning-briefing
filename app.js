@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  const DATA_DIR = '../data/';
+  const DATA_DIR = './data/';
   const STORAGE_KEY = 'morning-briefing-checks';
   const THEME_KEY = 'morning-briefing-theme';
 
