@@ -1,0 +1,153 @@
+{
+  "date": "2026-02-17",
+  "generated_at": "2026-02-17T09:00:00Z",
+  "sections": [
+    {
+      "id": "ws5",
+      "title": "Workstream 5: High Output/Quality Execute",
+      "icon": "target",
+      "items": [
+        {
+          "id": "ws5-1",
+          "summary": "Coaching Framework V2: Jason Armstrong — Week 3-4 milestone: Feedback collection and Coachy/Elevate integration",
+          "source_url": "https://docs.google.com/document/d/1KFRbVsG4I5aHWTJewlyasAwMYDqO_oDi9aBCJLXL2YA/edit",
+          "source_label": "WS5 Work Plan",
+          "priority": "high",
+          "type": "milestone"
+        }
+      ]
+    },
+    {
+      "id": "ws11",
+      "title": "Workstream 11: International Expansion",
+      "icon": "globe",
+      "items": [
+        {
+          "id": "ws11-1",
+          "summary": "Translation Quality Baseline: Manssur hopes to move up by 1 week — check if vendor scores received",
+          "source_url": "https://docs.google.com/document/d/1xRwy0aHQSZmDVW-opdg8IawR3Z_sihpAkxkQRQxidew/edit",
+          "source_label": "WS11 Work Plan",
+          "priority": "normal",
+          "type": "status"
+        }
+      ]
+    },
+    {
+      "id": "crossover",
+      "title": "Connections & Crossover",
+      "icon": "link",
+      "items": [
+        {
+          "id": "cross-1",
+          "summary": "WS6: Elevate full-stack build timeline impacts WS5 Coaching Framework V2 integration — check #1-high-output-quality-build-workstream for updates",
+          "source_url": "https://vault.shopify.io/gsd/projects/48264-Build-Elevate-A-Unified-Advisor-Learning-Platform",
+          "source_label": "Elevate Project",
+          "priority": "high",
+          "type": "dependency"
+        }
+      ]
+    },
+    {
+      "id": "mf-pulse",
+      "title": "Multifecta Board Pulse",
+      "icon": "activity",
+      "items": [
+        {
+          "id": "mf-1",
+          "summary": "P0: Frontline Core — Weekend TL Coverage business case needs SLT alignment (Kendall)",
+          "source_url": "https://github.com/Shopify/psn/issues/6783",
+          "source_label": "GH #6783",
+          "priority": "high",
+          "type": "blocker"
+        }
+      ]
+    },
+    {
+      "id": "front-door",
+      "title": "Support Front Door Intake",
+      "icon": "inbox",
+      "items": [
+        {
+          "id": "fd-1",
+          "summary": "New request: Legacy accounts settings migration — needs readiness assessment owner",
+          "source_url": "https://github.com/Shopify/psn/issues/7096",
+          "source_label": "GH #7096",
+          "priority": "normal",
+          "type": "intake"
+        }
+      ]
+    },
+    {
+      "id": "mf-updates",
+      "title": "Multifecta Updates",
+      "icon": "megaphone",
+      "items": [
+        {
+          "id": "mfu-1",
+          "summary": "Weekly round-up (Feb 6): Dev Support merged boards, MV pilot scope published, Retail Verifone kickoff",
+          "source_url": "https://vault.shopify.io/posts/347173",
+          "source_label": "Vault Post",
+          "priority": "normal",
+          "type": "update"
+        }
+      ]
+    },
+    {
+      "id": "slack",
+      "title": "Slack Messages to Answer",
+      "icon": "message-circle",
+      "items": [
+        {
+          "id": "slack-1",
+          "summary": "DM from Alex Bevilacqua: Smiley sprint context and outreach work update",
+          "source_url": "https://shopify.slack.com/archives/D0668CPD11A/p1770653748429009",
+          "source_label": "DM",
+          "priority": "normal",
+          "type": "message"
+        }
+      ]
+    },
+    {
+      "id": "actions",
+      "title": "Action Items",
+      "icon": "check-square",
+      "items": []
+    },
+    {
+      "id": "email",
+      "title": "Emails Needing Attention",
+      "icon": "mail",
+      "items": []
+    },
+    {
+      "id": "calendar",
+      "title": "Today's Meetings & Prep",
+      "icon": "calendar",
+      "items": [
+        {
+          "id": "cal-1",
+          "summary": "10:00 — Multifecta Leads Sync (Murdo, Louise, Sandra) — Review weekly round-up, escalations",
+          "source_url": "",
+          "source_label": "Calendar",
+          "priority": "normal",
+          "type": "meeting"
+        }
+      ]
+    },
+    {
+      "id": "fyi",
+      "title": "Things to Know",
+      "icon": "info",
+      "items": [
+        {
+          "id": "fyi-1",
+          "summary": "AHT temporarily removed from Alerts — coaching continues via Insights and AHT tabs (Jason Armstrong)",
+          "source_url": "https://shopify-support.slack.com/archives/C08EF6T8TJ7/p1770827057188849",
+          "source_label": "#support-delivery-managers",
+          "priority": "low",
+          "type": "fyi"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Morning Briefing — Hilary Healy</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-inner">
+      <a href="#" class="nav-brand" id="nav-brand">Morning Briefing</a>
+      <div class="nav-links">
+        <a href="#" class="nav-link active" data-view="today" id="nav-today">Today</a>
+        <a href="#" class="nav-link" data-view="history" id="nav-history">History</a>
+        <a href="#" class="nav-link" data-view="export" id="nav-export">Export</a>
+      </div>
+      <button type="button" id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
+        <svg class="theme-icon sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+        <svg class="theme-icon moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+    </div>
+  </nav>
+
+  <!-- TODAY VIEW -->
+  <div id="view-today" class="view">
+    <header class="hero">
+      <div class="hero-inner">
+        <div class="hero-meta">
+          <span class="hero-date" id="hero-date"></span>
+          <span class="hero-generated" id="hero-generated"></span>
+        </div>
+        <h1 class="hero-title">Good morning, <span class="gradient-text">Hilary</span></h1>
+        <div class="hero-stats" id="hero-stats"></div>
+      </div>
+    </header>
+    <main class="main" id="briefing-content">
+      <div class="loading" id="loading">
+        <p>Loading today's briefing...</p>
+      </div>
+    </main>
+  </div>
+
+  <!-- HISTORY VIEW -->
+  <div id="view-history" class="view" style="display:none">
+    <header class="hero hero--small">
+      <div class="hero-inner">
+        <h1 class="hero-title">Briefing <span class="gradient-text">History</span></h1>
+        <p class="hero-subtitle">Browse past briefings for impact review reporting</p>
+      </div>
+    </header>
+    <main class="main">
+      <div class="history-controls">
+        <input type="date" id="history-date" class="date-input">
+        <button type="button" class="btn btn--primary" id="history-load">Load</button>
+      </div>
+      <div class="history-list" id="history-list">
+        <p class="muted">Select a date above, or browse available briefings below.</p>
+        <div id="history-available"></div>
+      </div>
+      <div id="history-content"></div>
+    </main>
+  </div>
+
+  <!-- EXPORT VIEW -->
+  <div id="view-export" class="view" style="display:none">
+    <header class="hero hero--small">
+      <div class="hero-inner">
+        <h1 class="hero-title">Export for <span class="gradient-text">Impact Review</span></h1>
+        <p class="hero-subtitle">Export a date range as structured text for self-reflection</p>
+      </div>
+    </header>
+    <main class="main">
+      <div class="export-controls">
+        <div class="export-row">
+          <label for="export-start">From</label>
+          <input type="date" id="export-start" class="date-input" value="2026-01-06">
+        </div>
+        <div class="export-row">
+          <label for="export-end">To</label>
+          <input type="date" id="export-end" class="date-input">
+        </div>
+        <div class="export-row">
+          <label for="export-filter">Filter by section</label>
+          <select id="export-filter" class="select-input">
+            <option value="all">All sections</option>
+            <option value="ws5">WS5: High Output/Quality</option>
+            <option value="ws11">WS11: International Expansion</option>
+            <option value="crossover">Connections & Crossover</option>
+            <option value="mf-pulse">Multifecta Board Pulse</option>
+            <option value="front-door">Front Door Intake</option>
+            <option value="mf-updates">Multifecta Updates</option>
+            <option value="slack">Slack</option>
+            <option value="email">Email</option>
+            <option value="calendar">Meetings</option>
+          </select>
+        </div>
+        <button type="button" class="btn btn--primary" id="export-generate">Generate Export</button>
+      </div>
+      <div class="export-output" id="export-output" style="display:none">
+        <div class="export-header">
+          <h3>Export Preview</h3>
+          <button type="button" class="btn btn--small" id="export-copy">Copy to Clipboard</button>
+        </div>
+        <pre class="export-text" id="export-text"></pre>
+      </div>
+    </main>
+  </div>
+
+  <footer class="footer">
+    <p>Morning Briefing &mdash; Data saved for impact review</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
