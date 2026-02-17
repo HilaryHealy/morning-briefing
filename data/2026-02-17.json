@@ -64,7 +64,7 @@
         },
         {
           "id": "ws11-2",
-          "summary": "Translation Quality: Manssur hopes to move up SLT recommendations by 1 week — check if vendor scores analyzed",
+          "summary": "Translation Quality: Week 3 milestone is 'Analyze vendor quality scores'. Manssur commented (Feb 2) he hopes to move up SLT recommendations by 1 week — check if scores received and analysis started.",
           "source_url": "https://docs.google.com/document/d/1xRwy0aHQSZmDVW-opdg8IawR3Z_sihpAkxkQRQxidew/edit",
           "source_label": "WS11 Doc Comment",
           "priority": "normal",
@@ -72,7 +72,7 @@
         },
         {
           "id": "ws11-3",
-          "summary": "Multilingual Dashboard: Manssur flagged this is not in weekly breakdown — Kate making final improvements. Optional Jan analysis for all languages this week.",
+          "summary": "Multilingual Dashboard: Week 3 milestone is 'January readout/readout agent'. Manssur noted (Feb 2) Kate was making improvements. Optional: Jan analysis for all languages could be done end of Week 2/3.",
           "source_url": "https://docs.google.com/document/d/1xRwy0aHQSZmDVW-opdg8IawR3Z_sihpAkxkQRQxidew/edit",
           "source_label": "WS11 Doc Comment",
           "priority": "normal",
@@ -80,19 +80,11 @@
         },
         {
           "id": "ws11-4",
-          "summary": "China Exporter Content: Dena Nguyen asking about Germany content — 'Is the goal to update Selling in Germany HC content like we did for China?'",
+          "summary": "China Exporter Content: Week 3 milestone is 'Engage Trust & Safety for China/HK'. Dena Nguyen asked (Feb 6) about Germany content — 'Is the goal to update Selling in Germany HC content like we did for China?' Germany content starts Week 4 (Feb 20).",
           "source_url": "https://docs.google.com/document/d/1xRwy0aHQSZmDVW-opdg8IawR3Z_sihpAkxkQRQxidew/edit",
           "source_label": "WS11 Doc Comment",
           "priority": "normal",
           "type": "decision"
-        },
-        {
-          "id": "ws11-5",
-          "summary": "Engage Trust & Safety for China/HK — Week 3 milestone on the plan",
-          "source_url": "https://docs.google.com/document/d/1xRwy0aHQSZmDVW-opdg8IawR3Z_sihpAkxkQRQxidew/edit",
-          "source_label": "WS11 Work Plan",
-          "priority": "normal",
-          "type": "milestone"
         }
       ]
     },
@@ -103,7 +95,7 @@
       "items": [
         {
           "id": "cross-1",
-          "summary": "WS6/WS7: Elevate full-stack app build and Coachy rebuild are blocking WS5 coaching and data initiatives. No Coachy updates until build ships.",
+          "summary": "WS6/WS7: Elevate infra migrated to monorepo this weekend (Feb 16) — elevate.shopify.io now on new infra. But local dev issues (Ben) and BigQuery-to-Vault migration still pending. Coachy updates remain blocked until full feature build completes.",
           "source_url": "https://vault.shopify.io/gsd/projects/48264-Build-Elevate-A-Unified-Advisor-Learning-Platform",
           "source_label": "Elevate Project",
           "priority": "high",
@@ -119,7 +111,7 @@
         },
         {
           "id": "cross-3",
-          "summary": "WS4: MV pilot scope published, targeting Feb 23 start — Mission Control pilot overlaps with WS5 coaching/proficiency goals",
+          "summary": "WS4: MV pilot scope published — Mission Control pilot overlaps with WS5 coaching/proficiency goals. Verify start date in #1-merchant-verification-workstream.",
           "source_url": "https://docs.google.com/document/d/1biJ_nCc3mb8DMmbYo72IdNnGuRTyeIqvEimDMFIhdIg/edit",
           "source_label": "MV Scope Doc",
           "priority": "normal",
@@ -204,7 +196,7 @@
       "items": [
         {
           "id": "mfu-1",
-          "summary": "Weekly round-up (Feb 6): Dev Support merged boards, MV pilot scope published, Retail Verifone kickoff, Money prepping proposal revamp",
+          "summary": "Latest weekly round-up is from Feb 6 (11 days ago): Dev Support merged boards, MV pilot scope published, Retail Verifone kickoff, Money prepping proposal revamp. Feb 13 submissions were requested — check if the new round-up has been compiled.",
           "source_url": "https://vault.shopify.io/posts/347173",
           "source_label": "Vault Post",
           "priority": "normal",
@@ -212,7 +204,7 @@
         },
         {
           "id": "mfu-2",
-          "summary": "Live Assist update: Sladjana posted updated best practices for chat takeovers — sent to Frontline Leadership for distribution",
+          "summary": "Live Assist update (Feb 12): Sladjana posted updated best practices for chat takeovers — sent to Frontline Leadership for distribution",
           "source_url": "https://shopify-support.slack.com/archives/C074M91G2KZ/p1770841670162709",
           "source_label": "#-frontline-leadership-",
           "priority": "normal",
@@ -220,7 +212,7 @@
         },
         {
           "id": "mfu-3",
-          "summary": "Courtney Jamieson flagged: LA feedback form post-takeover is different from consult — monitoring quality gap",
+          "summary": "Courtney Jamieson flagged (last week): LA feedback form post-takeover is different from consult — monitoring quality gap",
           "source_url": "https://shopify-support.slack.com/archives/C07SU8YBC1H/p1770915396451499",
           "source_label": "#multifecta-frontline-support",
           "priority": "normal",
@@ -228,7 +220,7 @@
         },
         {
           "id": "mfu-4",
-          "summary": "AHT temporarily removed from Alerts to focus on Merchant Smiley coaching — will reassess after Full Stack App launch (Jason Armstrong)",
+          "summary": "AHT temporarily removed from Alerts (announced ~Feb 10) to focus on Merchant Smiley coaching — will reassess after Full Stack App launch (Jason Armstrong)",
           "source_url": "https://shopify-support.slack.com/archives/C08EF6T8TJ7/p1770827057188849",
           "source_label": "#support-delivery-managers",
           "priority": "normal",
@@ -360,7 +352,7 @@
           "source_label": "Calendar",
           "priority": "normal",
           "type": "meeting",
-          "prep": "Cross-workstream alignment session. Key crossover points to raise: (1) WS6/WS7 Elevate build is blocking WS5 Coachy updates — no fixes until full-stack app ships. (2) WS4 MV pilot starts Feb 23 — Mission Control pilot overlaps WS5 coaching/proficiency goals. (3) WS11 China/HK content may need WS4 MV readiness input. (4) WS9 new financial products could overlap WS5 Money Optimization and WS11 international expansion. Bring: your list of dependencies and blockers between workstreams to map out the critical path."
+          "prep": "Cross-workstream alignment session. Key crossover points to raise: (1) WS6/WS7 Elevate build is blocking WS5 Coachy updates — no fixes until full-stack app ships. (2) WS4 MV pilot scope published — Mission Control pilot overlaps WS5 coaching/proficiency goals (verify start date). (3) WS11 China/HK content may need WS4 MV readiness input. (4) WS9 new financial products could overlap WS5 Money Optimization and WS11 international expansion. Bring: your list of dependencies and blockers between workstreams to map out the critical path."
         },
         {
           "id": "cal-5",
@@ -369,7 +361,7 @@
           "source_label": "Slide Deck",
           "priority": "high",
           "type": "meeting",
-          "prep": "Monthly Business Review with senior delivery leadership (Amy Lafleche, Allison Sadler, Jennifer Routledge, Colin Boyer, Peter Gregory + all delivery leads). Review the slide deck before the meeting. Key things to have ready: (1) WS5 progress update — Smiley Sprint launched, AHT removed from alerts, coaching framework status. (2) WS11 progress — Playbook V1 due this week, translation quality baseline. (3) Multifecta health — 2 P0 issues open (Exec Escalations tool, Beacon code changes), MV pilot starting next week. (4) TaskUs Smiley decline trajectory — sprint is in Week 2, first weekly deep dive was yesterday. Be prepared to speak to blockers and cross-workstream dependencies."
+          "prep": "Monthly Business Review with senior delivery leadership (Amy Lafleche, Allison Sadler, Jennifer Routledge, Colin Boyer, Peter Gregory + all delivery leads). Review the slide deck before the meeting. Key things to have ready: (1) WS5 progress update — Smiley Sprint in Week 2, AHT removed from alerts (~Feb 10), coaching framework status. (2) WS11 progress — Playbook V1 due this week, translation quality baseline. (3) Multifecta health — 2 P0 issues open (Exec Escalations tool, Beacon code changes), Elevate infra migrated this weekend, MV pilot scope published (verify start date). (4) TaskUs Smiley decline trajectory — sprint is in Week 2, first weekly deep dive was yesterday. Be prepared to speak to blockers and cross-workstream dependencies."
         },
         {
           "id": "cal-6",
