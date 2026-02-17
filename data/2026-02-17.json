@@ -9,7 +9,7 @@
       "items": [
         {
           "id": "ws5-1",
-          "summary": "TaskUs Merchant Smiley Sprint kickoff today at 4pm — 4-week sprint to improve Merchant Smiley at TaskUs Core. Review project brief before meeting.",
+          "summary": "TaskUs Merchant Smiley Sprint — Week 2 of 4. Sprint kicked off Feb 9, daily standups running since Feb 10. Weekly deep dive was yesterday (Feb 16). Check progress on top 5 decline drivers and path to 80%.",
           "source_url": "https://docs.google.com/document/d/1EvKEsprkdm04i728u1XkI4fK_PH0btH07qRORIoB--8/edit",
           "source_label": "Project Brief",
           "priority": "high",
@@ -337,12 +337,12 @@
         },
         {
           "id": "cal-2",
-          "summary": "4:00pm — TaskUs Merchant Smiley Sprint (WS5) with Jennifer Routledge, Jason Armstrong, Arianna Gordon + TaskUs team",
+          "summary": "4:00pm — TaskUs Merchant Smiley Sprint daily standup (WS5, Week 2) with Jennifer Routledge, Jason Armstrong, Arianna Gordon + TaskUs team",
           "source_url": "https://docs.google.com/document/d/1EvKEsprkdm04i728u1XkI4fK_PH0btH07qRORIoB--8/edit",
           "source_label": "Project Brief",
           "priority": "high",
           "type": "meeting",
-          "prep": "4-week sprint to reverse TaskUs Merchant Smiley decline. TaskUs handles 70% of Core Merchant volume. Smiley dropped from 82.4% (Nov) to 77.6% (Feb MTD). Goal: identify top 5 decline drivers and get back to 80%. Key context from Sladjana's PE update: Merchant Smiley rejection rate ~80%, Live Assist chat volume up 232 (210 takeovers), shipping topics dragging smiley down, 27 tickets with 4+ min specialist wait time. Bottom performers identified across squads. Jason Armstrong removed AHT from Alerts to focus coaching on Smiley. Ask: What are TaskUs's independently identified top 5 reasons? How do they align with Shopify's analysis? What's the path to green?"
+          "prep": "Week 2 of 4-week sprint. Kickoff was Feb 9, daily standups since Feb 10, first weekly deep dive was yesterday (Feb 16). TaskUs handles 70% of Core Merchant volume. Smiley dropped from 82.4% (Nov) to 77.6% (Feb MTD). Goal: get back to 80%. Key context from Sladjana's PE update (Feb 10): Merchant Smiley rejection rate ~80%, Live Assist chat volume up 232 (210 takeovers), shipping topics dragging smiley down, 27 tickets with 4+ min specialist wait time. Bottom performers identified across squads. Jason Armstrong removed AHT from Alerts to focus coaching on Smiley. Ask: What progress on the top 5 action areas since kickoff? Any early wins or blockers surfaced in daily standups? What came out of yesterday's weekly deep dive?"
         },
         {
           "id": "cal-3",
@@ -369,7 +369,7 @@
           "source_label": "Slide Deck",
           "priority": "high",
           "type": "meeting",
-          "prep": "Monthly Business Review with senior delivery leadership (Amy Lafleche, Allison Sadler, Jennifer Routledge, Colin Boyer, Peter Gregory + all delivery leads). Review the slide deck before the meeting. Key things to have ready: (1) WS5 progress update — Smiley Sprint launched, AHT removed from alerts, coaching framework status. (2) WS11 progress — Playbook V1 due this week, translation quality baseline. (3) Multifecta health — 2 P0 issues open (Exec Escalations tool, Beacon code changes), MV pilot starting next week. (4) TaskUs Smiley decline trajectory and the sprint you're kicking off today at 4pm. Be prepared to speak to blockers and cross-workstream dependencies."
+          "prep": "Monthly Business Review with senior delivery leadership (Amy Lafleche, Allison Sadler, Jennifer Routledge, Colin Boyer, Peter Gregory + all delivery leads). Review the slide deck before the meeting. Key things to have ready: (1) WS5 progress update — Smiley Sprint launched, AHT removed from alerts, coaching framework status. (2) WS11 progress — Playbook V1 due this week, translation quality baseline. (3) Multifecta health — 2 P0 issues open (Exec Escalations tool, Beacon code changes), MV pilot starting next week. (4) TaskUs Smiley decline trajectory — sprint is in Week 2, first weekly deep dive was yesterday. Be prepared to speak to blockers and cross-workstream dependencies."
         },
         {
           "id": "cal-6",
