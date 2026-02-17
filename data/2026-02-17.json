@@ -1,0 +1,403 @@
+{
+  "date": "2026-02-17",
+  "generated_at": "2026-02-17T10:40:00Z",
+  "sections": [
+    {
+      "id": "ws5",
+      "title": "Workstream 5: High Output/Quality Execute",
+      "icon": "target",
+      "items": [
+        {
+          "id": "ws5-1",
+          "summary": "TaskUs Merchant Smiley Sprint kickoff today at 4pm — 4-week sprint to improve Merchant Smiley at TaskUs Core. Review project brief before meeting.",
+          "source_url": "https://docs.google.com/document/d/1EvKEsprkdm04i728u1XkI4fK_PH0btH07qRORIoB--8/edit",
+          "source_label": "Project Brief",
+          "priority": "high",
+          "type": "milestone"
+        },
+        {
+          "id": "ws5-2",
+          "summary": "Badging Weekly Update today at 9:30pm — Elevate Content Build progress with Julia Donahue, Kaytee Jordan, Clinton Morin",
+          "source_url": "",
+          "source_label": "Calendar",
+          "priority": "normal",
+          "type": "milestone"
+        },
+        {
+          "id": "ws5-3",
+          "summary": "Coachy: No updates or fixes until full-stack app build completes — Jennifer Routledge flagged this dependency. Monitor #temp-help-support-performance-portal",
+          "source_url": "https://shopify.slack.com/archives/C09B8LLSQ6S",
+          "source_label": "#temp-help-support-performance-portal",
+          "priority": "normal",
+          "type": "dependency"
+        },
+        {
+          "id": "ws5-4",
+          "summary": "Elevate Content Build: Hilary comment on doc asking Kaytee Jordan and Julia Donahue to validate content — check if they've responded",
+          "source_url": "https://docs.google.com/document/d/1KFRbVsG4I5aHWTJewlyasAwMYDqO_oDi9aBCJLXL2YA/edit",
+          "source_label": "WS5 Doc Comment",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "ws5-5",
+          "summary": "Money Optimization: Rory Devitt prepping Vault proposal revamp — check status of Money scope doc and IHC clean-up scoping",
+          "source_url": "https://vault.shopify.io/gsd/proposals/BOT0VJ",
+          "source_label": "Vault Proposal",
+          "priority": "normal",
+          "type": "status"
+        }
+      ]
+    },
+    {
+      "id": "ws11",
+      "title": "Workstream 11: International Expansion",
+      "icon": "globe",
+      "items": [
+        {
+          "id": "ws11-1",
+          "summary": "Week 3 (Feb 13-19): Playbook sections 6-9 due this week + publish V1 to Vault. Check progress with Mark Roche.",
+          "source_url": "https://docs.google.com/document/d/1xRwy0aHQSZmDVW-opdg8IawR3Z_sihpAkxkQRQxidew/edit",
+          "source_label": "WS11 Work Plan",
+          "priority": "high",
+          "type": "milestone"
+        },
+        {
+          "id": "ws11-2",
+          "summary": "Translation Quality: Manssur hopes to move up SLT recommendations by 1 week — check if vendor scores analyzed",
+          "source_url": "https://docs.google.com/document/d/1xRwy0aHQSZmDVW-opdg8IawR3Z_sihpAkxkQRQxidew/edit",
+          "source_label": "WS11 Doc Comment",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "ws11-3",
+          "summary": "Multilingual Dashboard: Manssur flagged this is not in weekly breakdown — Kate making final improvements. Optional Jan analysis for all languages this week.",
+          "source_url": "https://docs.google.com/document/d/1xRwy0aHQSZmDVW-opdg8IawR3Z_sihpAkxkQRQxidew/edit",
+          "source_label": "WS11 Doc Comment",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "ws11-4",
+          "summary": "China Exporter Content: Dena Nguyen asking about Germany content — 'Is the goal to update Selling in Germany HC content like we did for China?'",
+          "source_url": "https://docs.google.com/document/d/1xRwy0aHQSZmDVW-opdg8IawR3Z_sihpAkxkQRQxidew/edit",
+          "source_label": "WS11 Doc Comment",
+          "priority": "normal",
+          "type": "decision"
+        },
+        {
+          "id": "ws11-5",
+          "summary": "Engage Trust & Safety for China/HK — Week 3 milestone on the plan",
+          "source_url": "https://docs.google.com/document/d/1xRwy0aHQSZmDVW-opdg8IawR3Z_sihpAkxkQRQxidew/edit",
+          "source_label": "WS11 Work Plan",
+          "priority": "normal",
+          "type": "milestone"
+        }
+      ]
+    },
+    {
+      "id": "crossover",
+      "title": "Connections & Crossover",
+      "icon": "link",
+      "items": [
+        {
+          "id": "cross-1",
+          "summary": "WS6/WS7: Elevate full-stack app build and Coachy rebuild are blocking WS5 coaching and data initiatives. No Coachy updates until build ships.",
+          "source_url": "https://vault.shopify.io/gsd/projects/48264-Build-Elevate-A-Unified-Advisor-Learning-Platform",
+          "source_label": "Elevate Project",
+          "priority": "high",
+          "type": "dependency"
+        },
+        {
+          "id": "cross-2",
+          "summary": "WS3: Jerie Shaw joining workstream brain mash today 5:30pm — Zendesk redesign discussion impacts MF teams and WS5 Money Optimization",
+          "source_url": "",
+          "source_label": "Calendar",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "cross-3",
+          "summary": "WS4: MV pilot scope published, targeting Feb 23 start — Mission Control pilot overlaps with WS5 coaching/proficiency goals",
+          "source_url": "https://docs.google.com/document/d/1biJ_nCc3mb8DMmbYo72IdNnGuRTyeIqvEimDMFIhdIg/edit",
+          "source_label": "MV Scope Doc",
+          "priority": "normal",
+          "type": "status"
+        }
+      ]
+    },
+    {
+      "id": "mf-pulse",
+      "title": "Multifecta Board Pulse",
+      "icon": "activity",
+      "items": [
+        {
+          "id": "mf-1",
+          "summary": "P0 assigned to you: Executive Escalations Tool Build & Data (IR) — GH #5962",
+          "source_url": "https://github.com/Shopify/psn/issues/5962",
+          "source_label": "GH #5962",
+          "priority": "high",
+          "type": "blocker"
+        },
+        {
+          "id": "mf-2",
+          "summary": "P0 assigned to you: Beacon Code Changes for Advisor Acceleration — Data request, GH #6136",
+          "source_url": "https://github.com/Shopify/psn/issues/6136",
+          "source_label": "GH #6136",
+          "priority": "high",
+          "type": "blocker"
+        },
+        {
+          "id": "mf-3",
+          "summary": "P1 assigned to you: Internal Live Assist for Shop Closures — prevent termination by BPO advisors, GH #5854",
+          "source_url": "https://github.com/Shopify/psn/issues/5854",
+          "source_label": "GH #5854",
+          "priority": "high",
+          "type": "status"
+        },
+        {
+          "id": "mf-4",
+          "summary": "P2 assigned to you: Create Support intake pathway for non-support teams (Money MF) — GH #7034",
+          "source_url": "https://github.com/Shopify/psn/issues/7034",
+          "source_label": "GH #7034",
+          "priority": "normal",
+          "type": "intake"
+        },
+        {
+          "id": "mf-5",
+          "summary": "P2 assigned to you: Reduce incorrect escalations to #shopify-tax-rnd (Money MF) — GH #6727",
+          "source_url": "https://github.com/Shopify/psn/issues/6727",
+          "source_label": "GH #6727",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "mf-6",
+          "summary": "Older issue assigned to you: Analysis of Support Volume Deflection for Top Apps — GH #5052, may be stale (Aug 2025)",
+          "source_url": "https://github.com/Shopify/psn/issues/5052",
+          "source_label": "GH #5052",
+          "priority": "low",
+          "type": "status"
+        }
+      ]
+    },
+    {
+      "id": "front-door",
+      "title": "Support Front Door Intake",
+      "icon": "inbox",
+      "items": [
+        {
+          "id": "fd-1",
+          "summary": "Legacy accounts settings migration (GH #7096) — on Support Ops board as P1, finding owner for readiness assessment",
+          "source_url": "https://github.com/Shopify/psn/issues/7096",
+          "source_label": "GH #7096",
+          "priority": "normal",
+          "type": "intake"
+        }
+      ]
+    },
+    {
+      "id": "mf-updates",
+      "title": "Multifecta Updates",
+      "icon": "megaphone",
+      "items": [
+        {
+          "id": "mfu-1",
+          "summary": "Weekly round-up (Feb 6): Dev Support merged boards, MV pilot scope published, Retail Verifone kickoff, Money prepping proposal revamp",
+          "source_url": "https://vault.shopify.io/posts/347173",
+          "source_label": "Vault Post",
+          "priority": "normal",
+          "type": "update"
+        },
+        {
+          "id": "mfu-2",
+          "summary": "Live Assist update: Sladjana posted updated best practices for chat takeovers — sent to Frontline Leadership for distribution",
+          "source_url": "https://shopify-support.slack.com/archives/C074M91G2KZ/p1770841670162709",
+          "source_label": "#-frontline-leadership-",
+          "priority": "normal",
+          "type": "update"
+        },
+        {
+          "id": "mfu-3",
+          "summary": "Courtney Jamieson flagged: LA feedback form post-takeover is different from consult — monitoring quality gap",
+          "source_url": "https://shopify-support.slack.com/archives/C07SU8YBC1H/p1770915396451499",
+          "source_label": "#multifecta-frontline-support",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "mfu-4",
+          "summary": "AHT temporarily removed from Alerts to focus on Merchant Smiley coaching — will reassess after Full Stack App launch (Jason Armstrong)",
+          "source_url": "https://shopify-support.slack.com/archives/C08EF6T8TJ7/p1770827057188849",
+          "source_label": "#support-delivery-managers",
+          "priority": "normal",
+          "type": "update"
+        }
+      ]
+    },
+    {
+      "id": "slack",
+      "title": "Slack Messages to Answer",
+      "icon": "message-circle",
+      "items": [
+        {
+          "id": "slack-1",
+          "summary": "Mark Roche DM: Offered to share his start-of-day prompt — says it stems from PSN Brain install for memory",
+          "source_url": "https://shopify.slack.com/archives/D02P355JGQZ",
+          "source_label": "DM - Mark Roche",
+          "priority": "normal",
+          "type": "message"
+        },
+        {
+          "id": "slack-2",
+          "summary": "Fellow bot: 38 unread messages — likely meeting notes and agenda items for today's meetings",
+          "source_url": "",
+          "source_label": "Fellow DM",
+          "priority": "normal",
+          "type": "message"
+        },
+        {
+          "id": "slack-3",
+          "summary": "#shopify-tax-rnd: 1 mention — may relate to GH #6727 (reduce incorrect escalations)",
+          "source_url": "",
+          "source_label": "#shopify-tax-rnd",
+          "priority": "normal",
+          "type": "message"
+        }
+      ]
+    },
+    {
+      "id": "actions",
+      "title": "Action Items",
+      "icon": "check-square",
+      "items": [
+        {
+          "id": "act-1",
+          "summary": "OVERDUE: Loop back to Dev/Partners thread about routing issue (due Feb 13)",
+          "source_url": "https://shopify-support.slack.com/archives/C09PAT0LWTF/p1770753541234799",
+          "source_label": "Slack Reminder",
+          "priority": "high",
+          "type": "blocker"
+        },
+        {
+          "id": "act-2",
+          "summary": "7 uncompleted saved items (4 overdue) — review and clean up stale items",
+          "source_url": "",
+          "source_label": "Slack Saved Items",
+          "priority": "normal",
+          "type": "status"
+        }
+      ]
+    },
+    {
+      "id": "email",
+      "title": "Emails Needing Attention",
+      "icon": "mail",
+      "items": [
+        {
+          "id": "email-1",
+          "summary": "CCMA Sponsor Members Forum invite — Onshoring vs Offshoring, Thu Feb 19 in Dundalk",
+          "source_url": "",
+          "source_label": "Email from CCMA",
+          "priority": "low",
+          "type": "fyi"
+        },
+        {
+          "id": "email-2",
+          "summary": "MaestroQA: 'What Surveys Miss — Leadership Moments That Shape CX' — last call webinar from Larrita Browning",
+          "source_url": "",
+          "source_label": "Email from MaestroQA",
+          "priority": "low",
+          "type": "fyi"
+        }
+      ]
+    },
+    {
+      "id": "calendar",
+      "title": "Today's Meetings & Prep",
+      "icon": "calendar",
+      "items": [
+        {
+          "id": "cal-1",
+          "summary": "3:30pm — Support Operations Team Sync (Hackdays Special!) with Murdo, Ben, Mundeep, Amanda",
+          "source_url": "https://fellow.link/OAjY6qIj",
+          "source_label": "Fellow Notes",
+          "priority": "normal",
+          "type": "meeting"
+        },
+        {
+          "id": "cal-2",
+          "summary": "4:00pm — TaskUs Merchant Smiley Sprint (WS5) with Jennifer Routledge, Jason Armstrong, Arianna Gordon + TaskUs team. PREP: Review project brief.",
+          "source_url": "https://docs.google.com/document/d/1EvKEsprkdm04i728u1XkI4fK_PH0btH07qRORIoB--8/edit",
+          "source_label": "Project Brief",
+          "priority": "high",
+          "type": "meeting"
+        },
+        {
+          "id": "cal-3",
+          "summary": "4:30pm — Hilary / Katie McConnell - Escalated MF Sync",
+          "source_url": "https://fellow.link/18GUInSI",
+          "source_label": "Fellow Notes",
+          "priority": "normal",
+          "type": "meeting"
+        },
+        {
+          "id": "cal-4",
+          "summary": "5:30pm — Jerie Shaw / Hilary - Workstream brain mash (WS crossover: Zendesk redesign impacts)",
+          "source_url": "",
+          "source_label": "Calendar",
+          "priority": "normal",
+          "type": "meeting"
+        },
+        {
+          "id": "cal-5",
+          "summary": "7:00pm — Support Delivery MBR with SLT (Amy, Allison, Kelly attendees + all delivery leads). PREP: Review slide deck.",
+          "source_url": "https://docs.google.com/presentation/d/10CJju93y9gD6aFlXEo97uEk08GInLxJsBZdPr3zpjwM/edit",
+          "source_label": "Slide Deck",
+          "priority": "high",
+          "type": "meeting"
+        },
+        {
+          "id": "cal-6",
+          "summary": "8:30pm — Shipping & Markets Multifecta Sync with Elissa Unrau, Shahnaz Arab, Christie Finlayson, Erinn Moore",
+          "source_url": "",
+          "source_label": "Calendar",
+          "priority": "normal",
+          "type": "meeting"
+        },
+        {
+          "id": "cal-7",
+          "summary": "9:30pm — Badging Weekly Update (WS5 Elevate) with Julia Donahue, Kaytee Jordan, Clinton Morin",
+          "source_url": "",
+          "source_label": "Calendar",
+          "priority": "normal",
+          "type": "meeting"
+        }
+      ]
+    },
+    {
+      "id": "fyi",
+      "title": "Things to Know",
+      "icon": "info",
+      "items": [
+        {
+          "id": "fyi-1",
+          "summary": "Hack Days 39 is this week — #temp-support-at-hackdays-39 active. Your team's hack project: 'Getting our GAS out of Appsheet'",
+          "source_url": "https://vault.shopify.io/hackdays/153-hack-days-39/projects/21835-Getting-our-GAS-out-of-Appsheet",
+          "source_label": "Hack Days Project",
+          "priority": "normal",
+          "type": "fyi"
+        },
+        {
+          "id": "fyi-2",
+          "summary": "Support Advisor Assistant launched by Dawid — second brain tool for live chats, shared in #frontline-all-in",
+          "source_url": "https://chat.shopify.io/c/new?agent_id=agent_tQ-toeICP0rP8kRt75bMB",
+          "source_label": "Support Advisor Assistant",
+          "priority": "low",
+          "type": "fyi"
+        }
+      ]
+    }
+  ]
+}
