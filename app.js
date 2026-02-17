@@ -147,6 +147,20 @@
         updateSectionCount(e.target.closest('.section'));
       });
     });
+
+    container.querySelectorAll('.prep-toggle').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const prepId = btn.getAttribute('data-prep-id');
+        const content = document.getElementById('prep-' + prepId);
+        if (content.style.display === 'none') {
+          content.style.display = '';
+          btn.textContent = 'Hide prep briefing';
+        } else {
+          content.style.display = 'none';
+          btn.textContent = 'Show prep briefing';
+        }
+      });
+    });
   }
 
   function renderItem(item) {
@@ -164,6 +178,13 @@
       ? `<a href="${item.source_url}" target="_blank" rel="noopener" class="item-source">${item.source_label || 'Source'}</a>`
       : (item.source_label ? `<span class="item-source">${item.source_label}</span>` : '');
 
+    const prepBlock = item.prep
+      ? `<div class="item-prep">
+          <button type="button" class="prep-toggle" data-prep-id="${item.id}">Show prep briefing</button>
+          <div class="prep-content" id="prep-${item.id}" style="display:none">${item.prep}</div>
+        </div>`
+      : '';
+
     return `
       <div class="item${checkedClass}">
         <input type="checkbox" class="item-checkbox" data-id="${item.id}" ${isChecked}>
@@ -174,6 +195,7 @@
             ${priorityBadge}
             ${typeBadge}
           </div>
+          ${prepBlock}
         </div>
       </div>
     `;

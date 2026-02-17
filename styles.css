@@ -145,6 +145,12 @@ html[data-theme="dark"] .moon-icon { display: none; }
 .btn--small { padding: .35rem .75rem; font-size: .8rem; background: var(--bg-hover); color: var(--text); border: 1px solid var(--border); }
 .btn--small:hover { background: var(--border); }
 
+/* ── Meeting Prep ── */
+.item-prep { margin-top: .4rem; }
+.prep-toggle { background: none; border: 1px solid var(--border); border-radius: var(--radius-sm); padding: .25rem .6rem; font-family: var(--font); font-size: .75rem; font-weight: 600; color: var(--accent); cursor: pointer; transition: all .15s; }
+.prep-toggle:hover { background: var(--accent-light); border-color: var(--accent); }
+.prep-content { margin-top: .4rem; padding: .6rem .75rem; background: var(--accent-light); border-left: 3px solid var(--accent); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; font-size: .82rem; line-height: 1.6; color: var(--text); }
+
 /* ── Footer ── */
 .footer { text-align: center; padding: 1.5rem; font-size: .8rem; color: var(--text-muted); border-top: 1px solid var(--border); }
 

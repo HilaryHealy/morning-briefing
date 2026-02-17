@@ -282,9 +282,17 @@
         },
         {
           "id": "act-2",
-          "summary": "7 uncompleted saved items (4 overdue) — review and clean up stale items",
-          "source_url": "",
-          "source_label": "Slack Saved Items",
+          "summary": "OVERDUE (Aug 2025): Jenn Fantin DM about Guru contract meeting — you were OOO, align on what was decided",
+          "source_url": "https://shopify.slack.com/archives/D01CEGH10A1/p1755205804606779",
+          "source_label": "DM - Jenn Fantin",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "act-3",
+          "summary": "OVERDUE (Aug 2025): Anusha Shanmugarajah — knowledge policies loop-close and Tier 2 collab follow-up",
+          "source_url": "https://shopify.slack.com/archives/C097SD9UAJW/p1753367997664669",
+          "source_label": "Slack Message",
           "priority": "normal",
           "type": "status"
         }
@@ -298,7 +306,7 @@
         {
           "id": "email-1",
           "summary": "CCMA Sponsor Members Forum invite — Onshoring vs Offshoring, Thu Feb 19 in Dundalk",
-          "source_url": "",
+          "source_url": "https://mail.google.com/mail/u/0/#inbox/19c6b14ccee627fa",
           "source_label": "Email from CCMA",
           "priority": "low",
           "type": "fyi"
@@ -306,7 +314,7 @@
         {
           "id": "email-2",
           "summary": "MaestroQA: 'What Surveys Miss — Leadership Moments That Shape CX' — last call webinar from Larrita Browning",
-          "source_url": "",
+          "source_url": "https://mail.google.com/mail/u/0/#inbox/19c67d4418822586",
           "source_label": "Email from MaestroQA",
           "priority": "low",
           "type": "fyi"
@@ -324,15 +332,17 @@
           "source_url": "https://fellow.link/OAjY6qIj",
           "source_label": "Fellow Notes",
           "priority": "normal",
-          "type": "meeting"
+          "type": "meeting",
+          "prep": "Hack Days 39 is this week. Your team's hack project is 'Getting our GAS out of Appsheet'. Team is active — Mark Roche having laptop issues (black screen), Siobhan asking about favourite Cursor models, Rory out for appointment until 1pm. Mundeep just came online. Check Fellow notes for pre-set agenda items. This is a lighter sync given Hack Days — good time to check in on morale and who's participating in hacks vs regular work."
         },
         {
           "id": "cal-2",
-          "summary": "4:00pm — TaskUs Merchant Smiley Sprint (WS5) with Jennifer Routledge, Jason Armstrong, Arianna Gordon + TaskUs team. PREP: Review project brief.",
+          "summary": "4:00pm — TaskUs Merchant Smiley Sprint (WS5) with Jennifer Routledge, Jason Armstrong, Arianna Gordon + TaskUs team",
           "source_url": "https://docs.google.com/document/d/1EvKEsprkdm04i728u1XkI4fK_PH0btH07qRORIoB--8/edit",
           "source_label": "Project Brief",
           "priority": "high",
-          "type": "meeting"
+          "type": "meeting",
+          "prep": "4-week sprint to reverse TaskUs Merchant Smiley decline. TaskUs handles 70% of Core Merchant volume. Smiley dropped from 82.4% (Nov) to 77.6% (Feb MTD). Goal: identify top 5 decline drivers and get back to 80%. Key context from Sladjana's PE update: Merchant Smiley rejection rate ~80%, Live Assist chat volume up 232 (210 takeovers), shipping topics dragging smiley down, 27 tickets with 4+ min specialist wait time. Bottom performers identified across squads. Jason Armstrong removed AHT from Alerts to focus coaching on Smiley. Ask: What are TaskUs's independently identified top 5 reasons? How do they align with Shopify's analysis? What's the path to green?"
         },
         {
           "id": "cal-3",
@@ -340,23 +350,26 @@
           "source_url": "https://fellow.link/18GUInSI",
           "source_label": "Fellow Notes",
           "priority": "normal",
-          "type": "meeting"
+          "type": "meeting",
+          "prep": "Katie's recent updates: (1) Sonar feedback improvements shipped with Kayla Busch — can now filter by Escalated teams. (2) Sonal Kumar reviewing oldest open tickets, found some need dev team escalation — she started a list doc. Sonal wants to discuss best approach for getting traction across different teams. (3) Sladjana flagged: SSAs supporting shipping topics may be contributing to smiley dip, and 27 tickets had 4+ min wait for specialist first reply in consults. Ask Katie: How is the Sonar filter helping identify patterns? What's the plan for the stale ticket escalation list?"
         },
         {
           "id": "cal-4",
-          "summary": "5:30pm — Jerie Shaw / Hilary - Workstream brain mash (WS crossover: Zendesk redesign impacts)",
+          "summary": "5:30pm — Jerie Shaw / Hilary - Workstream brain mash",
           "source_url": "",
           "source_label": "Calendar",
           "priority": "normal",
-          "type": "meeting"
+          "type": "meeting",
+          "prep": "Cross-workstream alignment session. Key crossover points to raise: (1) WS6/WS7 Elevate build is blocking WS5 Coachy updates — no fixes until full-stack app ships. (2) WS4 MV pilot starts Feb 23 — Mission Control pilot overlaps WS5 coaching/proficiency goals. (3) WS11 China/HK content may need WS4 MV readiness input. (4) WS9 new financial products could overlap WS5 Money Optimization and WS11 international expansion. Bring: your list of dependencies and blockers between workstreams to map out the critical path."
         },
         {
           "id": "cal-5",
-          "summary": "7:00pm — Support Delivery MBR with SLT (Amy, Allison, Kelly attendees + all delivery leads). PREP: Review slide deck.",
+          "summary": "7:00pm — Support Delivery MBR with SLT",
           "source_url": "https://docs.google.com/presentation/d/10CJju93y9gD6aFlXEo97uEk08GInLxJsBZdPr3zpjwM/edit",
           "source_label": "Slide Deck",
           "priority": "high",
-          "type": "meeting"
+          "type": "meeting",
+          "prep": "Monthly Business Review with senior delivery leadership (Amy Lafleche, Allison Sadler, Jennifer Routledge, Colin Boyer, Peter Gregory + all delivery leads). Review the slide deck before the meeting. Key things to have ready: (1) WS5 progress update — Smiley Sprint launched, AHT removed from alerts, coaching framework status. (2) WS11 progress — Playbook V1 due this week, translation quality baseline. (3) Multifecta health — 2 P0 issues open (Exec Escalations tool, Beacon code changes), MV pilot starting next week. (4) TaskUs Smiley decline trajectory and the sprint you're kicking off today at 4pm. Be prepared to speak to blockers and cross-workstream dependencies."
         },
         {
           "id": "cal-6",
@@ -364,7 +377,8 @@
           "source_url": "",
           "source_label": "Calendar",
           "priority": "normal",
-          "type": "meeting"
+          "type": "meeting",
+          "prep": "Recent activity: (1) New intake issue: FedEx BYOA Migration (GH #7081). (2) Shahnaz started UPS training material, asked Natasha about SSA training timeline. (3) Shahnaz's team doing a Hack Days project: Support Tools. (4) New members Andrew Iozzo and Mandy Daniels joined the channel. (5) Elissa asked Natasha about Shipping helper scheduling for coming weeks. (6) Weekly round-up reminder went out but no submission yet from this team — chase this. Ask: Status of FedEx BYOA migration intake, UPS training readiness timeline, and whether weekly update was submitted."
         },
         {
           "id": "cal-7",
@@ -372,7 +386,8 @@
           "source_url": "",
           "source_label": "Calendar",
           "priority": "normal",
-          "type": "meeting"
+          "type": "meeting",
+          "prep": "Major Elevate milestone: Pierre-Luc shipped the URL swap to monorepo infrastructure over the weekend. elevate.shopify.io now points to new infra on world monorepo. Remaining issue: BigQuery access for user info needs Vault API migration (medium priority, doesn't break app). Ben having local Prisma issues after fresh checkout. Rich Brown praised the team: 'proper software — millions of dollars not long ago'. Jill Wise demoed test store work with CSVs ready for import. Ask: Is the DNS swap fully propagated? Any blockers for content badging work now that infra is migrated? What's the content review status from Kaytee and Julia?"
         }
       ]
     },
