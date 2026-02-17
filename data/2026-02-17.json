@@ -241,22 +241,6 @@
           "priority": "normal",
           "type": "message"
         },
-        {
-          "id": "slack-2",
-          "summary": "Fellow bot: 38 unread messages — likely meeting notes and agenda items for today's meetings",
-          "source_url": "",
-          "source_label": "Fellow DM",
-          "priority": "normal",
-          "type": "message"
-        },
-        {
-          "id": "slack-3",
-          "summary": "#shopify-tax-rnd: 1 mention — may relate to GH #6727 (reduce incorrect escalations)",
-          "source_url": "",
-          "source_label": "#shopify-tax-rnd",
-          "priority": "normal",
-          "type": "message"
-        }
       ]
     },
     {
