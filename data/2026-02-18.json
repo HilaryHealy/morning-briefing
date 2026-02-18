@@ -1,0 +1,516 @@
+{
+  "date": "2026-02-18",
+  "generated_at": "2026-02-18T14:00:00.000Z",
+  "sections": [
+    {
+      "id": "ws5",
+      "title": "Workstream 5: High Output/Quality Execute",
+      "icon": "target",
+      "items": [
+        {
+          "id": "ws5-1",
+          "summary": "Amy Lafleche posted Money Support win in #0-support-leadership: queues went from 7,000+ to consistently in the 500s. Shoutouts to Rory, Debs, Fritz, and the full team. Heading into tax season stronger than ever.",
+          "source_url": "https://shopify.slack.com/archives/C04R8FDSM38/p1771378670307089",
+          "source_label": "#0-support-leadership",
+          "priority": "high",
+          "type": "milestone"
+        },
+        {
+          "id": "ws5-2",
+          "summary": "Money V1 scope doc shipping Friday (Rory confirmed green, Feb 17). Adding Live Assist scope. V2 with suggested changes next week. No blockers.",
+          "source_url": "https://shopify-support.slack.com/archives/C0A9X7CGZSN/p1771318546929829",
+          "source_label": "#1-high-output-quality-execute-workstream",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "ws5-3",
+          "summary": "Balance onboarding issue flagged in #mf-money-support by Sarah Donovan: re-provisioning SP to onboard to Balance breaks re-onboarding. No ETA on fix. Comms drafted for advisors — do NOT suggest re-provisioning as workaround.",
+          "source_url": "https://shopify.slack.com/archives/C09MRLV6P0Q/p1771414615879359",
+          "source_label": "#mf-money-support",
+          "priority": "high",
+          "type": "blocker"
+        },
+        {
+          "id": "ws5-4",
+          "summary": "Coaching Framework V2 (Jason Armstrong): Green. Starting lead enablement, mapping training/certification workflow. Coachy UI/UX trending positively. Blocker: dependency on AI Prompting, Insight Aggregation, Data accuracy in Coachy App. 1:1 with Jason TODAY at 5:30pm.",
+          "source_url": "https://shopify-support.slack.com/archives/C0A9X7CGZSN/p1771341375296269",
+          "source_label": "#1-high-output-quality-execute-workstream",
+          "priority": "high",
+          "type": "status"
+        },
+        {
+          "id": "ws5-5",
+          "summary": "Elevate Content Build: Kaytee Jordan posted SME scheduling update — Payments course needs 4 more SME hours. Money modules (Billing, Capital, Spending, Lending) in review. Asked John Fritz about Partners billing SME. Decision needed on additional SME time.",
+          "source_url": "https://shopify-support.slack.com/archives/C0A9X7CGZSN/p1771365369843689",
+          "source_label": "#1-high-output-quality-execute-workstream",
+          "priority": "normal",
+          "type": "decision"
+        },
+        {
+          "id": "ws5-6",
+          "summary": "Elevate platform build: Active bug fixing in #proj-elevate-build. River resolving TypeScript/lint errors on PR #432666. Kelly flagged (today) that Elevate launch has 'lots of bugs and escalations'.",
+          "source_url": "https://shopify.slack.com/archives/C09DQPSFS3F/p1771417978455429",
+          "source_label": "#proj-elevate-build",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "ws5-7",
+          "summary": "AI Smiley rebuilt/retrained (Kelly, today). Positive and negative results looking good, neutral still challenging (fewer comments make training harder). Goal: primary quality metric. Open question: should AI Smiley be the primary evaluation metric?",
+          "source_url": "https://shopify-support.slack.com/archives/C03U8JT53UP/p1771407875321679",
+          "source_label": "Kelly's weekly musings",
+          "priority": "high",
+          "type": "decision"
+        },
+        {
+          "id": "ws5-8",
+          "summary": "Survey Smiley decline investigation continues. Current theory: decline in positive responses + decline among advisor-initiated follow-up tickets in PQ. New GitHub issue #7141: Merchant Smiley Investigation Feb2026 (P0, created today).",
+          "source_url": "https://github.com/Shopify/psn/issues/7141",
+          "source_label": "GH #7141",
+          "priority": "high",
+          "type": "status"
+        },
+        {
+          "id": "ws5-9",
+          "summary": "Clinton Morin (Time to Proficiency) weekly update still outstanding. Follow up.",
+          "source_url": "",
+          "source_label": "Memory Bank",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "ws5-10",
+          "summary": "6-WEEK REVIEW PREP: Kelly announced everyone should be prepping. Low-effort update for SLT: what shipped, what didn't, highlights, lowlights, learnings, what ships next. Template linked.",
+          "source_url": "https://docs.google.com/presentation/d/1zCOG1Ist0eiqA1h37GB3QjMUgFO7UYfV_whp-OLIpbo/edit?slide=id.g3c7f4d3b824_3_42#slide=id.g3c7f4d3b824_3_42",
+          "source_label": "6-Week Review Template",
+          "priority": "high",
+          "type": "milestone"
+        }
+      ]
+    },
+    {
+      "id": "ws11",
+      "title": "Workstream 11: International Expansion",
+      "icon": "globe",
+      "items": [
+        {
+          "id": "ws11-1",
+          "summary": "Translation Quality: Manssur booked a sync with Anusha, Arianna & Hilary on Thursday to align on and confirm next steps after Phase 1 pilot. Focus may shift to automating the process next, pending Anusha's input.",
+          "source_url": "https://shopify-support.slack.com/archives/C09UA7HTZ6J/p1771351391447139",
+          "source_label": "#language-quality-baseline",
+          "priority": "high",
+          "type": "decision"
+        },
+        {
+          "id": "ws11-2",
+          "summary": "Translation Quality: Golden data set — Sandra Drag asked Calvin de Lima to weigh in on minimum number of 'good' transcripts needed and required format. Vendors would rewrite existing 'good' tickets in fluent native language as the quality standard.",
+          "source_url": "https://shopify-support.slack.com/archives/C09UA7HTZ6J/p1771338372473559",
+          "source_label": "#language-quality-baseline",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "ws11-3",
+          "summary": "Translation Quality: Core vs Plus CE breakdown confirmed — no difference in quality (Hilary confirmed in channel Feb 17). CE scale definition also delivered. Two of three action items resolved.",
+          "source_url": "https://shopify-support.slack.com/archives/C09UA7HTZ6J/p1771332153114179",
+          "source_label": "#language-quality-baseline",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "ws11-4",
+          "summary": "Support Readiness Playbook (Mark Roche): Green. Shipping this week: incorporating Hilary's feedback, adding Scout integration for merchant context, generating UAE SP scope docs. No blockers.",
+          "source_url": "https://shopify-support.slack.com/archives/C0AAA649FU1/p1771349008723889",
+          "source_label": "#1-int-expansion-workstream",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "ws11-5",
+          "summary": "China Exporter Content: Legal review complete (Sharon, Feb 16). PRs to be merged this week. Monitor for feedback or amendments post-merge. Risk: editor availability.",
+          "source_url": "",
+          "source_label": "Memory Bank",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "ws11-6",
+          "summary": "NEW SFD intake: Dena Nguyen submitted readiness assessment for Shopify launch in Vietnamese, Malay, Slovakian, Slovenian and Croatian. GitHub #7129 created. Directly relevant to WS11 scope.",
+          "source_url": "https://github.com/Shopify/psn/issues/7129",
+          "source_label": "GH #7129",
+          "priority": "high",
+          "type": "intake"
+        },
+        {
+          "id": "ws11-7",
+          "summary": "One Japan IHC update (Nao Tokuda, #docs today): Renaming IHC to 'Japanese Support: One Japan'. Hybrid team serving Plus + Core. Not advertised externally. Routing: JA inquiries prioritized to JA team first. Relevant context for WS11 Japanese support model.",
+          "source_url": "https://shopify-support.slack.com/archives/C04BGJH0N/p1771404310328219",
+          "source_label": "#docs",
+          "priority": "normal",
+          "type": "fyi"
+        },
+        {
+          "id": "ws11-8",
+          "summary": "Hilary pointed Manssur to Danielle Bleackley (in WS5 channel) for help creating Golden data set tickets — cross-workstream collaboration.",
+          "source_url": "https://shopify-support.slack.com/archives/C0AAA649FU1/p1771365369843689",
+          "source_label": "#1-int-expansion-workstream",
+          "priority": "low",
+          "type": "status"
+        },
+        {
+          "id": "ws11-9",
+          "summary": "Katie O'Connell and Manssur Mobarak weekly updates still outstanding. Follow up.",
+          "source_url": "",
+          "source_label": "Memory Bank",
+          "priority": "normal",
+          "type": "status"
+        }
+      ]
+    },
+    {
+      "id": "crossover",
+      "title": "Connections & Crossover",
+      "icon": "link",
+      "items": [
+        {
+          "id": "crossover-1",
+          "summary": "Kelly tagged Hilary on Delivery Redesign: P90 TTR/aging-and-ghosted tickets work in #1-delivery-redesign-workstream. 'Keep an eye on metrics — bucketing and execution plan must be right for merchants.' Active thread about AI tools in advisor messages and attachment bugs.",
+          "source_url": "https://shopify-support.slack.com/archives/C03U8JT53UP/p1771407875321679",
+          "source_label": "Kelly's weekly musings",
+          "priority": "high",
+          "type": "status"
+        },
+        {
+          "id": "crossover-2",
+          "summary": "Mission Control pilot results (Kelly, today): 42% more live assists per hour, 13-point bump in SSA satisfaction. Shift from reactive to proactive — specialists see where merchants struggle and intervene with full context.",
+          "source_url": "https://shopify-support.slack.com/archives/C03U8JT53UP/p1771407875321679",
+          "source_label": "Kelly's weekly musings",
+          "priority": "normal",
+          "type": "milestone"
+        },
+        {
+          "id": "crossover-3",
+          "summary": "WS6/7 Elevate Build: Amy Lafleche requested additional Elevate categories (account management, storefront management, finances and billing). Christina Black added them. Relevant to WS5 content build alignment.",
+          "source_url": "https://shopify-support.slack.com/archives/C0A9QRU3NP5/p1771376959523489",
+          "source_label": "#1-high-output-quality-build-workstream",
+          "priority": "low",
+          "type": "status"
+        },
+        {
+          "id": "crossover-4",
+          "summary": "Plus & Enterprise MF: Ayla Huber flagged 3,500+ ghosted CSM tickets in Zendesk (from #mf-logistics). When CSMs leave Shopify, tickets go to unmonitored MSM group. Needs task force support and long-term solution. GH #950.",
+          "source_url": "https://shopify.slack.com/archives/C09MJGNH3NF/p1771382225169079",
+          "source_label": "#mf-logistics",
+          "priority": "normal",
+          "type": "blocker"
+        },
+        {
+          "id": "crossover-5",
+          "summary": "Shop + Retail collaboration being explored (Vault post). Mike Simpson moving from Shop to Retail to test cross-team career growth. Relevant to MF Retail and MF Shop & Buyer.",
+          "source_url": "https://vault.shopify.io/posts/348760-Exploring-closer-collaboration-between-Shop-and-Retail-Support-teams",
+          "source_label": "Vault",
+          "priority": "low",
+          "type": "fyi"
+        }
+      ]
+    },
+    {
+      "id": "mf-pulse",
+      "title": "Multifecta Board Pulse",
+      "icon": "activity",
+      "items": [
+        {
+          "id": "mf-pulse-1",
+          "summary": "6 open issues assigned to Hilary in Shopify/psn: #7034 (MF Support intake for non-support teams, P2), #6727 (Reduce incorrect escalations to tax-rnd, P2), #6136 (Beacon code changes for Advisor Acceleration, P0), #5962 (Executive Escalations tool build, P0), #5854 (Internal LA for merchant closures, P1), #5052 (Volume deflection strategies, SA Insights).",
+          "source_url": "https://github.com/Shopify/psn/issues?q=is%3Aopen+assignee%3AHilaryHealy",
+          "source_label": "GitHub PSN",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "mf-pulse-2",
+          "summary": "New P0 issue created today: #7141 — Merchant Smiley Investigation Feb2026. Assigned to Support Business Analytics. Directly tied to the Survey Smiley decline that Kelly flagged.",
+          "source_url": "https://github.com/Shopify/psn/issues/7141",
+          "source_label": "GH #7141",
+          "priority": "high",
+          "type": "status"
+        },
+        {
+          "id": "mf-pulse-3",
+          "summary": "New intake: GH #7129 — Readiness Assessment for Shopify Launch in Vietnamese, Malay, Slovakian, Slovenian and Croatian (Dena Nguyen). Directly relevant to WS11.",
+          "source_url": "https://github.com/Shopify/psn/issues/7129",
+          "source_label": "GH #7129",
+          "priority": "normal",
+          "type": "intake"
+        },
+        {
+          "id": "mf-pulse-4",
+          "summary": "New intake: GH #7130 — Improve ID Verification Flow and Support Escalation Pathways (Heather Bant). Relevant to MF Merchant Verification.",
+          "source_url": "https://github.com/Shopify/psn/issues/7130",
+          "source_label": "GH #7130",
+          "priority": "normal",
+          "type": "intake"
+        },
+        {
+          "id": "mf-pulse-5",
+          "summary": "New intake: GH #7135 — Provide Strategic Partner Store on Comped Plan for Feature Testing (Quinn Fahey).",
+          "source_url": "https://github.com/Shopify/psn/issues/7135",
+          "source_label": "GH #7135",
+          "priority": "low",
+          "type": "intake"
+        }
+      ]
+    },
+    {
+      "id": "front-door",
+      "title": "Support Front Door Intake",
+      "icon": "inbox",
+      "items": [
+        {
+          "id": "front-door-1",
+          "summary": "Dena Nguyen: Readiness Assessment for Shopify Launch in Vietnamese, Malay, Slovakian, Slovenian and Croatian. GH #7129. Directly relevant to WS11 international expansion scope.",
+          "source_url": "https://github.com/Shopify/psn/issues/7129",
+          "source_label": "GH #7129",
+          "priority": "high",
+          "type": "intake"
+        },
+        {
+          "id": "front-door-2",
+          "summary": "Heather Bant: Improve ID Verification Flow and Support Escalation Pathways. GH #7130. Relevant to MF Merchant Verification.",
+          "source_url": "https://github.com/Shopify/psn/issues/7130",
+          "source_label": "GH #7130",
+          "priority": "normal",
+          "type": "intake"
+        },
+        {
+          "id": "front-door-3",
+          "summary": "Quinn Fahey: Provide Strategic Partner Store on Comped Plan for Feature Testing. GH #7135.",
+          "source_url": "https://github.com/Shopify/psn/issues/7135",
+          "source_label": "GH #7135",
+          "priority": "low",
+          "type": "intake"
+        },
+        {
+          "id": "front-door-4",
+          "summary": "Jenn Fantin: Temporary Support Headcount Request submitted (Feb 17). Also Janice Koon headcount request (Feb 17).",
+          "source_url": "https://shopify-support.slack.com/archives/C0687H0UFS7/p1771023141936819",
+          "source_label": "#psn-intake-support-front-door",
+          "priority": "low",
+          "type": "intake"
+        }
+      ]
+    },
+    {
+      "id": "mf-updates",
+      "title": "Multifecta Updates",
+      "icon": "megaphone",
+      "items": [
+        {
+          "id": "mf-updates-1",
+          "summary": "Sandra Collay posted Weekly Round-Up for week ending Feb 13 to Vault: 7 of 11 teams provided updates. Highlights: Frontline Core shipped Non-Smiley Merchant Outreach Process, Shop & Buyer launched OKR Performance Tracker, MV has Mission Control 1-day pilot + 3 hires for March 1, Retail aligning with Plus for Betsey Johnson support.",
+          "source_url": "https://vault.shopify.io/posts/348690-Multifecta-Round-Up-Week-of-2026-02-13",
+          "source_label": "Vault Roundup",
+          "priority": "normal",
+          "type": "update"
+        },
+        {
+          "id": "mf-updates-2",
+          "summary": "Kelly confirmed (today): Multifecta review assessment by Hilary needs to be reviewed by ALL of SLT — not just Kelly, Amy, Allison, Murdo. Ensure broader distribution.",
+          "source_url": "https://shopify-support.slack.com/archives/C03U8JT53UP/p1771407875321679",
+          "source_label": "Kelly's weekly musings",
+          "priority": "high",
+          "type": "decision"
+        },
+        {
+          "id": "mf-updates-3",
+          "summary": "Kelly: 'Need to start thinking about what AI functionality looks like for each Multifecta.' Tagged Hilary and Murdo. New strategic thinking required.",
+          "source_url": "https://shopify-support.slack.com/archives/C03U8JT53UP/p1771407875321679",
+          "source_label": "Kelly's weekly musings",
+          "priority": "high",
+          "type": "decision"
+        },
+        {
+          "id": "mf-updates-4",
+          "summary": "Support Ops Team Sync recording posted by Mundeep (Feb 17): Hack Days demos from Rory (Beacon merchant context menu), Jen (GA booking tool), Calvin (headcount request swarm), Shiv (onboarding hub), Jill (test store backfill for Elevate), Jen (Money knowledge restructure), Karina (Ops tool hub), Lou & Mundeep (Sherpa knowledge engine).",
+          "source_url": "https://share.descript.com/view/XbABdkrxz5U",
+          "source_label": "Team Sync Recording",
+          "priority": "normal",
+          "type": "update"
+        },
+        {
+          "id": "mf-updates-5",
+          "summary": "MF Money: Balance onboarding issue active — Sarah Donovan flagged that re-provisioning SP for Balance breaks re-onboarding. Comms drafted. Rory/Fritz need to action.",
+          "source_url": "https://shopify.slack.com/archives/C09MRLV6P0Q/p1771414615879359",
+          "source_label": "#mf-money-support",
+          "priority": "high",
+          "type": "blocker"
+        }
+      ]
+    },
+    {
+      "id": "slack",
+      "title": "Slack Messages to Answer",
+      "icon": "message-circle",
+      "items": [
+        {
+          "id": "slack-1",
+          "summary": "Manssur Mobarak (unanswered, Feb 12): Do we have a roadmap beyond Q1 for Multilingual/International across all workstreams?",
+          "source_url": "",
+          "source_label": "Memory Bank",
+          "priority": "normal",
+          "type": "message"
+        }
+      ]
+    },
+    {
+      "id": "actions",
+      "title": "Action Items",
+      "icon": "check-square",
+      "items": [
+        {
+          "id": "actions-1",
+          "summary": "Respond to Kelly's weekly musings — acknowledge the 3 action items: (1) delivery redesign metrics monitoring, (2) MF AI functionality thinking with Murdo, (3) MF review to full SLT.",
+          "source_url": "https://shopify-support.slack.com/archives/C03U8JT53UP/p1771407875321679",
+          "source_label": "Kelly's weekly musings",
+          "priority": "high",
+          "type": "decision"
+        },
+        {
+          "id": "actions-2",
+          "summary": "Start 6-week review prep for WS5 and WS11. Use Kelly's template. Should be low effort — what shipped, what didn't, highlights, lowlights, learnings, what ships next.",
+          "source_url": "https://docs.google.com/presentation/d/1zCOG1Ist0eiqA1h37GB3QjMUgFO7UYfV_whp-OLIpbo/edit?slide=id.g3c7f4d3b824_3_42#slide=id.g3c7f4d3b824_3_42",
+          "source_label": "6-Week Review Template",
+          "priority": "high",
+          "type": "milestone"
+        },
+        {
+          "id": "actions-3",
+          "summary": "Prep for Jason 1:1 (5:30pm today): Coaching enablement progress, Coachy App dependency risks, AI Smiley as primary metric discussion, 6-week review prep.",
+          "source_url": "https://shopify.fellow.app/meetings/72cl2jvh3q7v71pu2t1us0oom0/",
+          "source_label": "Fellow",
+          "priority": "high",
+          "type": "meeting"
+        },
+        {
+          "id": "actions-4",
+          "summary": "Ensure MF review reaches full SLT — distribute beyond Kelly, Amy, Allison, Murdo. Review site: https://curly-adventure-gzp87og.pages.github.io/",
+          "source_url": "https://curly-adventure-gzp87og.pages.github.io/",
+          "source_label": "MF Review Site",
+          "priority": "high",
+          "type": "decision"
+        },
+        {
+          "id": "actions-5",
+          "summary": "Begin thinking: What does AI functionality look like for each Multifecta? Coordinate with Murdo. Kelly raised this today.",
+          "source_url": "https://shopify-support.slack.com/archives/C03U8JT53UP/p1771407875321679",
+          "source_label": "Kelly's weekly musings",
+          "priority": "high",
+          "type": "decision"
+        },
+        {
+          "id": "actions-6",
+          "summary": "Prep for Thursday sync with Anusha, Arianna & Manssur on Translation Quality Phase 1 next steps. Manssur booked it.",
+          "source_url": "https://shopify-support.slack.com/archives/C09UA7HTZ6J/p1771351391447139",
+          "source_label": "#language-quality-baseline",
+          "priority": "normal",
+          "type": "meeting"
+        },
+        {
+          "id": "actions-7",
+          "summary": "Saved item overdue: Loop back to Slack thread in #mf-developer-and-partners-and-themes-support (due Feb 13, still open).",
+          "source_url": "https://shopify-support.slack.com/archives/C09PAT0LWTF/p1770753541234799",
+          "source_label": "Saved Item",
+          "priority": "normal",
+          "type": "status"
+        },
+        {
+          "id": "actions-8",
+          "summary": "Review GH #7129 (Dena Nguyen) — Readiness assessment for 5 new languages. This is directly in WS11 scope and could expand the international roadmap.",
+          "source_url": "https://github.com/Shopify/psn/issues/7129",
+          "source_label": "GH #7129",
+          "priority": "normal",
+          "type": "intake"
+        }
+      ]
+    },
+    {
+      "id": "email",
+      "title": "Emails Needing Attention",
+      "icon": "mail",
+      "items": []
+    },
+    {
+      "id": "calendar",
+      "title": "Today's Meetings & Prep",
+      "icon": "calendar",
+      "items": [
+        {
+          "id": "calendar-1",
+          "summary": "Beacon Status Sync Part 2 — 4:30-5:00pm (4 attendees)",
+          "source_url": "",
+          "source_label": "Calendar",
+          "priority": "normal",
+          "type": "meeting",
+          "prep": "Beacon-related sync. Active incidents today: core errors on pod 377 (resolved quickly) and SFR elevated 5xx error rate (storefronts unavailable). Delivery Redesign channel has active discussion about AI tools in advisor messages and attachment bugs. Kelly mentioned staying on top of delivery redesign metrics."
+        },
+        {
+          "id": "calendar-2",
+          "summary": "Jason / Hilary 1:1 — 5:30-6:00pm",
+          "source_url": "https://shopify.fellow.app/meetings/72cl2jvh3q7v71pu2t1us0oom0/",
+          "source_label": "Fellow",
+          "priority": "high",
+          "type": "meeting",
+          "prep": "Jason posted WS5 update (Feb 17): Green. Starting lead enablement for coaching program, mapping training/certification workflow. Coachy UI/UX trending positively. Key blocker: dependency on AI Prompting, Insight Aggregation and Data accuracy in Coachy App. Discuss: AI Smiley rebuilt/retrained — should it be primary evaluation metric? 6-week review prep needed. No talking points in Fellow yet."
+        }
+      ]
+    },
+    {
+      "id": "fyi",
+      "title": "Things to Know",
+      "icon": "info",
+      "items": [
+        {
+          "id": "fyi-1",
+          "summary": "Joe Strolz: Summit 2026 registration opening soon. Support has more than doubled slots. IRL invitations going out tomorrow (Feb 19). Selected based on high performance across LOBs and regions.",
+          "source_url": "https://shopify-support.slack.com/archives/C08CSAGG3N1/p1771398937433259",
+          "source_label": "#frontline-all-in",
+          "priority": "normal",
+          "type": "fyi"
+        },
+        {
+          "id": "fyi-2",
+          "summary": "Kelly's musing: 'The new era of AI agent and skills requires new muscle memory. That is everyone's new job — become expert users. The faster we use AI to redesign our workflows, the faster our team's impact increases.'",
+          "source_url": "https://shopify-support.slack.com/archives/C03U8JT53UP/p1771407875321679",
+          "source_label": "Kelly's weekly musings",
+          "priority": "normal",
+          "type": "fyi"
+        },
+        {
+          "id": "fyi-3",
+          "summary": "Hack Days demos from Support Ops team (Feb 17 sync): Rory built Beacon merchant context menu, Calvin built headcount request multi-agent swarm, Jen built Growth Advisory booking tool and Money knowledge restructure, Lou & Mundeep built Sherpa Knowledge Engine for Slack.",
+          "source_url": "https://share.descript.com/view/XbABdkrxz5U",
+          "source_label": "Team Sync Recording",
+          "priority": "low",
+          "type": "fyi"
+        },
+        {
+          "id": "fyi-4",
+          "summary": "Vault posts from Hack Days: Sherpa in Slack, AI in RIR, QuickLogs for Retail, Scout's Direct Merchant Feedback Channel, Help Center video diagnosis. Multiple AI-powered tools emerging across Support.",
+          "source_url": "https://vault.shopify.io/posts/348154-Sherpa-in-Slack-Bringing-Intelligence-Where-We-Work",
+          "source_label": "Vault",
+          "priority": "low",
+          "type": "fyi"
+        },
+        {
+          "id": "fyi-5",
+          "summary": "Dawid Milewski (frontline agent builder) upgraded to Claude Sonnet 4.6, added Zendesk email ticket support (v64.5). Agent now handles email replies, internal notes, and ticket status recommendations.",
+          "source_url": "https://shopify-support.slack.com/archives/C08CSAGG3N1/p1771419896968939",
+          "source_label": "#frontline-all-in",
+          "priority": "low",
+          "type": "fyi"
+        }
+      ]
+    }
+  ]
+}
